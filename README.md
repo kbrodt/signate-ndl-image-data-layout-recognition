@@ -3,9 +3,8 @@
 # Signate: NDL Image Data Layout Recognition
 
 [NDL Image Data Layout Recognition](https://signate.jp/competitions/218).
-[leaderboard](https://signate.jp/competitions/218/leaderboard)
 
-4th place out of 97 (gold medal) [leaderboard](https://signate.jp/competitions/218/leaderboard) with score 0.84310 (top1 -- 0.84978).
+[4th place out of 97](https://signate.jp/competitions/218/leaderboard) (gold medal) with score 0.84310 (top1 -- 0.84978).
 
 
 ### Prerequisites
