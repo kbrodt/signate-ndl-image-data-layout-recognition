@@ -1,0 +1,13 @@
+# Python
+
+*cache*
+
+# IDEs
+
+.idea/
+
+# Data/Models
+
+data/
+*.pth
+*.pkl
